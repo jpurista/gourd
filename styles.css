@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    margin-bottom: 1rem;
+}
+
+.card {
+    width: 100%;
+    margin-bottom: 2rem;
+}
